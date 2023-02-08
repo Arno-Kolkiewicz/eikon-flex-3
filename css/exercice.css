@@ -26,7 +26,6 @@
   order: -1;
 }
 
-
 /* 4. exercice-order-3 */
 .exercice-order-3 .container {
   display: flex;
@@ -40,7 +39,6 @@
 .exercice-order-3 .container .element-blue {
   order: 2;
 }
-
 
 /* 5. exercice-align-self-1*/
 
@@ -74,5 +72,4 @@
 /* 8. exercice-all-in-2 */
 
 
-/* 8. exercice-margin-auto */
 
