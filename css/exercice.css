@@ -88,5 +88,11 @@
   justify-content: space-between;
 }
 
+.exercice-all-in-2 .container .element-pink {
+  align-self: flex-start
+}
 
+.exercice-all-in-2 .container .element-blue {
+  order: 1;
+}
 
