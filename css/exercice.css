@@ -96,3 +96,10 @@
   order: 1;
 }
 
+/* 8. exercice-margin-auto */
+.exercice-margin-auto .container {
+  display: flex;
+}
+.exercice-margin-auto .container .element {
+  margin: auto;
+}
